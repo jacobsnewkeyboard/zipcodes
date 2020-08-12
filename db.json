@@ -1,22 +1,22 @@
 {
   "locations" : [
     {
-      "id" : "133a495233",
+      "id" : 2210,
       "name" : "store 1",
       "zipcode" : 19087
     },
     {
-      "id" : "2442e32942",
+      "id" : 3349,
       "name" : "store 2",
       "zipcode" : 19088
     },
     {
-      "id" : "8894a29293"
+      "id" : 236
       "name" : "ch store",
       "zipcode" : 19118
     },
     {
-      "id" : "776fopu298"
+      "id" : 2001
       "name" : "hollywood store",
       "zipcode" : 90210
     }
