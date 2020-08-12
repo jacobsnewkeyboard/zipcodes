@@ -1,24 +1,3 @@
 {
-  "locations" : [
-    {
-      "id" : 2210,
-      "name" : "store 1",
-      "zipcode" : 19087
-    },
-    {
-      "id" : 3349,
-      "name" : "store 2",
-      "zipcode" : 19088
-    },
-    {
-      "id" : 2362,
-      "name" : "ch store",
-      "zipcode" : 19118
-    },
-    {
-      "id" : 2001,
-      "name" : "hollywood store",
-      "zipcode" : 90210
-    }
-  ]
+  "locations" : [19087, 19088, 19118, 90210]
 }
