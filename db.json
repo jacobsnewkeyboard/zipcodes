@@ -1,17 +1,16 @@
 {
   "locations" : [
-    {"id" : 1,
+    {"id" : 1221,
      "name" : "wayne store",
      "zipcode": "19087"} ,
-    {"id" : 2,
+    {"id" : 2332,
      "name" : "other wayne store",
      "zipcode" : "19088"} ,
-    {"id" : 3,
+    {"id" : 3557,
      "name" : "chestnut hill store",
      "zipcode" : "19118"} ,
-    {"id" : 4, 
+    {"id" : 4769, 
      "name" : "hollywood store",
-     "zipcode" : "90210"
-    }    
+     "zipcode" : "90210"}    
   ]
 }
