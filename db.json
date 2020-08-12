@@ -1,0 +1,24 @@
+{
+  "locations" : [
+    {
+      "id" : "133a495233",
+      "name" : "store 1",
+      "zipcode" : 19087
+    },
+    {
+      "id" : "2442e32942",
+      "name" : "store 2",
+      "zipcode" : 19088
+    },
+    {
+      "id" : "8894a29293"
+      "name" : "ch store",
+      "zipcode" : 19118
+    },
+    {
+      "id" : "776fopu298"
+      "name" : "hollywood store",
+      "zipcode" : 90210
+    }
+  ]
+}
