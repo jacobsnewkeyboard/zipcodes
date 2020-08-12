@@ -3,13 +3,13 @@
     {"id" : 1,
      "name" : "wayne store",
      "zipcode": "19087"} ,
-    {"id" : 0002,
+    {"id" : 2,
      "name" : "other wayne store",
      "zipcode" : "19088"} ,
-    {"id" : 0003,
+    {"id" : 3,
      "name" : "chestnut hill store",
      "zipcode" : "19118"} ,
-    {"id" : 0014, 
+    {"id" : 14, 
      "name" : "hollywood store",
      "zipcode" "90210"
     }    
